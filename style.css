@@ -20,6 +20,6 @@ nav {
   margin-right: 5vw;
 }
 
-nav > ul > li {
+nav li {
   list-style-type: none;
 }
